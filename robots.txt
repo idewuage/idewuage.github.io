@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idewuage.github.io/LDv/sitemap_index.txt
+Sitemap: https://idewuage.github.io/PgK/sitemap_index.txt
+Sitemap: https://idewuage.github.io/grU/sitemap_index.txt
+Sitemap: https://idewuage.github.io/qFB/sitemap_index.txt
